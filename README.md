@@ -12,6 +12,9 @@ This github will be our repository for the whole project. Everyone is free to su
 
 
 ## Useful resources:
+
 UX research cheat sheet: https://www.nngroup.com/articles/ux-research-cheat-sheet/
+
 User interviews: https://www.nngroup.com/articles/user-interviews/
+
 Thematic analysis of qualitative data: https://www.nngroup.com/articles/thematic-analysis/
